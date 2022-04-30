@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on Game Engine 
 - 🌱 I’m currently learning Vulkan 
-- 👯 I’m looking to collaborate on Game Dev 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedpatil611&label=Profile%20views&color=0e75b6&style=flat" alt="vedpatil611" /> </p>
 
